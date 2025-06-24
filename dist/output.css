@@ -1071,7 +1071,6 @@ video {
   width: 100px;
   height: 7px;
   background-color: var(--primary-color);
-  /* Usando la variable CSS */
   transition: all .3s ease;
 }
 
@@ -1080,27 +1079,22 @@ video {
   position: absolute;
   top: 0%;
   left: 50%;
-  /* Centra la línea vertical */
   transform: translateX(-50%);
   width: 2px;
   height: 100%;
   background-color: var(--border-color);
-  /* Usando la variable CSS */
 }
 
 .tips-item::before {
   content: '';
   position: absolute;
   top: 50%;
-  /* Centra verticalmente la "bola" */
   left: 0;
-  /* Coloca la "bola" a la izquierda */
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
   border-radius: 50%;
   background-color: var(--primary-color);
-  /* Usando la variable CSS */
   z-index: 1;
 }
 
