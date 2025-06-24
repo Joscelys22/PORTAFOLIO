@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio</title>
-    <link rel="stylesheet" href="../dist/output.css">
+    <link rel="stylesheet" href="./dist/output.css">
     <script src="https://kit.fontawesome.com/af1a09fa4d.js" crossorigin="anonymous"></script>
 </head>
 
@@ -49,7 +49,7 @@
                     </div>
                 </div>
                 <div class="flex-1 flex justify-center md:justify-end">
-                    <img src="./assets/img_ppal.png" alt="imagen_ppal" class="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg h-auto object-contain border-4 md:border-5 border-primary-color shadow-lg shadow-green-900 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-green-900">
+                    <img src="./src/assets/img_ppal.png" alt="imagen_ppal" class="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg h-auto object-contain border-4 md:border-5 border-primary-color shadow-lg shadow-green-900 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-green-900">
                 </div>
             </div>
         </section>
@@ -60,7 +60,7 @@
                 
                 <div class="bg-border-color rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-purple-800 flex flex-col w-full sm:w-72 md:w-64 lg:w-72 xl:w-80">
                     <div class="overflow-hidden h-48 flex justify-center items-center">
-                        <img src="./assets/product1.jpg" alt="product1" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
+                        <img src="./src/assets/product1.jpg" alt="product1" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
                     </div>
                     <div class="p-4 flex-grow text-center">
                         <h3 class="text-lg md:text-xl font-semibold mb-2"> Protector solar de máxima protección con textura nutritiva.</h3>
@@ -70,7 +70,7 @@
 
                 <div class="bg-border-color rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-purple-800 flex flex-col w-full sm:w-72 md:w-64 lg:w-72 xl:w-80">
                     <div class="overflow-hidden h-48 flex justify-center items-center">
-                        <img src="./assets/product2.jpg" alt="product2" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
+                        <img src="./src/assets/product2.jpg" alt="product2" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
                     </div>
                     <div class="p-4 flex-grow text-center">
                         <h3 class="text-lg md:text-xl font-semibold mb-2"> Gel Limpiador Piel Sensible.</h3>
@@ -80,7 +80,7 @@
 
                 <div class="bg-border-color rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-purple-800 flex flex-col w-full sm:w-72 md:w-64 lg:w-72 xl:w-80">
                     <div class="overflow-hidden h-48 flex justify-center items-center">
-                        <img src="./assets/product3.jpg" alt="product3" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
+                        <img src="./src/assets/product3.jpg" alt="product3" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
                     </div>
                     <div class="p-4 flex-grow text-center">
                         <h3 class="text-lg md:text-xl font-semibold mb-2"> Crema Cicatrizante</h3>
@@ -90,7 +90,7 @@
 
                 <div class="bg-border-color rounded-lg overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-lg hover:shadow-purple-800 flex flex-col w-full sm:w-72 md:w-64 lg:w-72 xl:w-80">
                     <div class="overflow-hidden h-48 flex justify-center items-center">
-                        <img src="./assets/product4.jpg" alt="product4" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
+                        <img src="./src/assets/product4.jpg" alt="product4" class="w-full h-full object-cover transition-all duration-300 hover:scale-105">
                     </div>
                     <div class="p-4 flex-grow text-center">
                         <h3 class="text-lg md:text-xl font-semibold mb-2"> Bioderma Sébium Gel </h3>
