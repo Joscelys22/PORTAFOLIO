@@ -76,7 +76,7 @@
                     </div>
                     <div class="products-info">
                         <h3> Crema Cicatrizante</h3>
-                        <p>Crema cicatrizante que hidrata, repara y calma.</p>
+                        <p>Cremaa cicatrizante que hidrata, repara y calma.</p>
                     </div>
                 </div>
 
