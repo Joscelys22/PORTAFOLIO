@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/af1a09fa4d.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <nav class="navbar">
+                <div class="logo"> <span class=""> BIODERMA</span>
+                </div>
+
+                <ul class="menu">
+                    <li> <a href="vision"> QUIENES SOMOS? </a></li>
+                    <li> <a href="products"> PRODUCTOS</a></li>
+                    <li> <a href="tips"> TIPS </a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <main>
+        <section class="vision">
+            <div class="vision-content">
+                <div class="vision-text">
+                    <h1> CONOCE BIODERMA </h1>
+                    <p> Somos una empresa dedicada a la fabricación y comercialización de productos dermatológicos de
+                        alta calidad. Nuestro compromiso es ofrecer soluciones efectivas para el cuidado de la piel,
+                        basadas en la investigación científica y la innovación constante.</p>
+                    <p> En este portafolio te mostraremos un poco sobre nosotros.</p>
+                    <div class="redes-sociales">
+                        <a href="https://www.instagram.com/biodermavenezuela?igsh=YWl6ZHJ6M2s3dmVn" target="_blank"> <i
+                                class="fab fa-instagram"> </i></a>
+                        <a href="https://www.facebook.com/BiodermaVenezuela" target="_blank"> <i
+                                class="fab fa-facebook"> </i></a>
+
+                        <a href="https://www.facebook.com/BiodermaVenezuela" class="btn"> Más información</a>
+                    </div>
+                    <div class="vision-image">
+                        <img src="./assets/img_ppal.png" alt="imagen_ppal">
+                    </div>
+                </div>
+        </section>
+
+        <section class="productos">
+            <h2 class="section-title"> NUESTROS PRODUCTOS </h2>
+            <div class="products-container">
+                <div class="products-cont">
+                    <div class="products-img">
+                        <img src="./assets/product1.jpg" alt="product1">
+                    </div>
+                    <div class="products-info">
+                        <h3> Protector solar de máxima protección con textura nutritiva.</h3>
+                        <p> Activa las defensas naturales de la piel y la protege de los riesgos del daño celular.</p>
+                    </div>
+                </div>
+
+                <div class="products-cont">
+                    <div class="products-img">
+                        <img src="./assets/product2.jpg" alt="product2">
+                    </div>
+                    <div class="products-info">
+                        <h3> Gel Limpiador Piel Sensible.</h3>
+                        <p>Gel limpiador micelar calmante que refuerza la hidratación natural de la piel.</p>
+                    </div>
+                </div>
+
+                <div class="products-cont">
+                    <div class="products-img">
+                        <img src="./assets/product3.jpg" alt="product3">
+                    </div>
+                    <div class="products-info">
+                        <h3> Crema Cicatrizante</h3>
+                        <p>Crema cicatrizante que hidrata, repara y calma.</p>
+                    </div>
+                </div>
+
+                <div class="products-cont">
+                    <div class="products-img">
+                        <img src="./assets/product4.jpg" alt="product4">
+                    </div>
+                    <div class="products-info">
+                        <h3> Bioderma Sébium Gel </h3>
+                        <p>Limpiador para Piel Mixta y/o Grasa</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="tips">
+            <h2 class="section-title"> TIPS PARA UN ROSTRO PERFECTO</h2>
+            <div class="tips-container">
+
+                <div class="tips-item">
+                    <div class="tips-content">
+                        <span class="tip">Hidratación</span>
+                        <P>Utiliza una crema hidratante adecuada para tu tipo de piel, como una crema para piel seca o
+                            un gel para piel grasa.</P>
+                        <P> Bebe suficiente agua a lo largo del día para mantener tu piel hidratada. </P>
+                    </div>
+                </div>
+
+                <div class="tips-item">
+                    <div class="tips-content">
+                        <span class="tip">Protección solar</span>
+                        <P>Aplica protector solar todos los días, incluso si está nublado, para proteger tu piel de los
+                            daños del sol.</P>
+                        <P> Elige un protector solar de amplio espectro con un factor de protección solar (FPS) adecuado
+                            para tu tipo de piel.</P>
+                    </div>
+                </div>
+
+                <div class="tips-item">
+                    <div class="tips-content">
+                        <span class="tip">Limpieza</span>
+                        <P>Limpia tu rostro dos veces al día con un limpiador suave para eliminar impurezas y exceso de
+                            grasa.</P>
+                        <P> Evita el uso de jabones agresivos que puedan irritar tu piel.</P>
+                    </div>
+
+        </section>
+
+        <footer class="footer">
+            <div class="footer-container">
+                <h4> BIODERMA</h4>
+                <h6> &copy; Todos los derechos reservados </h6>
+                <p> Este portafolio fue creado como parte de un proyecto académico. </p>
+
+            </div>
+    </main>
+</body>
+
+</html>
