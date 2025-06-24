@@ -26,7 +26,7 @@
                 <ul class="hidden md:flex gap-4 md:gap-8 list-none items-center justify-center p-0 m-0 text-base md:text-xl">
                     <li> <a href="#vision" class="text-light-text no-underline px-3 py-2 md:px-5 md:py-2 rounded-md hover:bg-dark-bg hover:text-primary-color transition-all duration-300"> QUIENES SOMOS? </a></li>
                     <li> <a href="#productos" class="text-light-text no-underline px-3 py-2 md:px-5 md:py-2 rounded-md hover:bg-dark-bg hover:text-primary-color transition-all duration-300"> PRODUCTOS</a></li>
-                    <li> <a href="#tips" class="text-light-text no-underline px-3 py-2 md:px-5 md:py-2 rounded-md hover:bg-dark-bg hover:text-primary-color transition-all duration-300"> TIPS </a></li>
+                    <li> <a href="./tips.php" class="text-light-text no-underline px-3 py-2 md:px-5 md:py-2 rounded-md hover:bg-dark-bg hover:text-primary-color transition-all duration-300"> TIPS </a></li>
                 </ul>
             </nav>
         </header>
